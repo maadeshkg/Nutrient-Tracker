@@ -58,7 +58,7 @@ stores user-specific search history in MongoDB, and displays nutrient details th
 - Mongoose
 
 ### API
-- USDA FoodData Central API
+- Using USDA FoodData Central API
 
 ---
 
@@ -87,25 +87,12 @@ stores user-specific search history in MongoDB, and displays nutrient details th
 <img width="1279" height="634" alt="about" src="https://github.com/user-attachments/assets/69b0b277-5c8b-43ae-bf35-24fa28633d16" />
 
 
-### Contact Page
-
-![Contact](images/contact.png)
-
----
-
 ##  Installation
-
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/nutrient-tracker.git
-```
 
 ### Frontend
 
 ```bash
 cd client
-npm install react-router-dom axios chart.js react-chartjs-2
 npm install
 npm run dev
 ```
@@ -115,7 +102,6 @@ npm run dev
 ```bash
 cd server
 npm install
-npm install express mongoose dotenv cors bcryptjs jsonwebtoken nodemailer axios
 npm start
 ```
 
