@@ -70,15 +70,22 @@ stores user-specific search history in MongoDB, and displays nutrient details th
 
 ### Home Page
 
-![Home](images/home.png)
+<img width="1355" height="538" alt="home" src="https://github.com/user-attachments/assets/6ff7a9c1-8290-47c6-9177-ed5081afcad6" />
+
 
 ### Nutrient Result
 
-![Nutrient](images/nutrient.png)
+<img width="1339" height="444" alt="nutrient 1" src="https://github.com/user-attachments/assets/b111d877-ae94-4ac2-8771-571bae2d4e9d" />
+
+
+<img width="1140" height="498" alt="nutrient 2" src="https://github.com/user-attachments/assets/11468419-02a0-47b6-a429-b07114fddbf5" />
+
+
 
 ### About Page
 
-![About](images/about.png)
+<img width="1279" height="634" alt="about" src="https://github.com/user-attachments/assets/69b0b277-5c8b-43ae-bf35-24fa28633d16" />
+
 
 ### Contact Page
 
