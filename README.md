@@ -38,7 +38,7 @@ stores user-specific search history in MongoDB, and displays nutrient details th
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React.js
@@ -62,11 +62,12 @@ stores user-specific search history in MongoDB, and displays nutrient details th
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Login Page
 
-![Login](images/login.png)
+![Login](<img width="1283" height="531" alt="login" src="https://github.com/user-attachments/assets/4e1aad96-3e1c-4188-8f6b-385a6b1fb5ec" />
+)
 
 ### Home Page
 
@@ -86,7 +87,7 @@ stores user-specific search history in MongoDB, and displays nutrient details th
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### Clone Repository
 
@@ -98,6 +99,7 @@ git clone https://github.com/yourusername/nutrient-tracker.git
 
 ```bash
 cd client
+npm install react-router-dom axios chart.js react-chartjs-2
 npm install
 npm run dev
 ```
@@ -107,12 +109,13 @@ npm run dev
 ```bash
 cd server
 npm install
+npm install express mongoose dotenv cors bcryptjs jsonwebtoken nodemailer axios
 npm start
 ```
 
 ---
 
-## 📌 Project Highlights
+##  Project Highlights
 
 - Secure authentication using JWT and OTP verification.
 - Fetches real-time food nutrition data from USDA API.
