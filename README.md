@@ -1,0 +1,110 @@
+#  Nutrient Tracker
+
+Nutrient Tracker is a full-stack MERN web application that allows users to search for food items and view their nutritional information
+in real time using the USDA API. The application provides secure user authentication with JWT and OTP email verification, 
+stores user-specific search history in MongoDB, and displays nutrient details through an interactive and responsive user interface
+---
+
+##  Features
+
+Developed using MongoDB, Express.js, React.js, and Node.js (MERN Stack).
+Implemented secure user authentication using JWT.
+Added OTP email verification during login.
+Created protected routes for authorized user access.
+Integrated USDA API to fetch real-time food nutrition data.
+Displayed nutrients such as calories, protein, fat, carbohydrates, fiber, sodium, potassium, iron, zinc, and sugar.
+Visualized nutrient distribution using React Chart.js pie charts.
+Stored user-specific food search history in MongoDB.
+Added quantity-based nutrient calculation using food weight in grams.
+Developed RESTful APIs using Express.js and Node.js.
+Used Mongoose for MongoDB database operations.
+Implemented responsive UI using React.js and CSS.
+Added About and Contact pages with modern layouts.
+Integrated Google Maps location on the Contact page.
+Used Axios for frontend-backend API communication.
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- React Router DOM
+- Axios
+- React Chart.js
+- CSS
+
+### Backend
+- Node.js
+- Express.js
+- JWT Authentication
+- Nodemailer
+
+### Database
+- MongoDB
+- Mongoose
+
+### API
+- USDA FoodData Central API
+
+---
+
+## 📸 Screenshots
+
+### Login Page
+
+![Login](images/login.png)
+
+### Home Page
+
+![Home](images/home.png)
+
+### Nutrient Result
+
+![Nutrient](images/nutrient.png)
+
+### About Page
+
+![About](images/about.png)
+
+### Contact Page
+
+![Contact](images/contact.png)
+
+---
+
+## ⚙️ Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/yourusername/nutrient-tracker.git
+```
+
+### Frontend
+
+```bash
+cd client
+npm install
+npm run dev
+```
+
+### Backend
+
+```bash
+cd server
+npm install
+npm start
+```
+
+---
+
+## 📌 Project Highlights
+
+- Secure authentication using JWT and OTP verification.
+- Fetches real-time food nutrition data from USDA API.
+- Displays calories, protein, fat, carbohydrates, fiber, sodium, potassium, iron, zinc, and sugar.
+- Stores user-specific search history.
+- Interactive nutrient charts using React Chart.js.
+- Fully responsive MERN stack application.
+
+---
