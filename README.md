@@ -66,7 +66,7 @@ stores user-specific search history in MongoDB, and displays nutrient details th
 
 ### Login Page
 
-![Login](<img width="1283" height="531" alt="login" src="https://github.com/user-attachments/assets/4e1aad96-3e1c-4188-8f6b-385a6b1fb5ec" />
+![(<img width="1283" height="531" alt="login" src="https://github.com/user-attachments/assets/4e1aad96-3e1c-4188-8f6b-385a6b1fb5ec" />]
 )
 
 ### Home Page
